@@ -1,0 +1,10 @@
+# Speeding Up Crafting
+Characters that are Trained or higher in [Crafting](https://2e.aonprd.com/Skills.aspx?ID=4) may assist another character performing the [Craft](https://2e.aonprd.com/Actions.aspx?ID=43) Downtime action. Each assistant reduces the time needed to craft the item by a number of days equal to how proficient they are in Crafting: Trained characters reduce the time by 1 day, Experts reduce it by 2 days, Masters by 3, and Legendary by 4. The amount of time needed to craft an item cannot be reduced below 1 day.
+
+Once the time has been expended and the Character crafting performs the Crafting skill check associated with the item, all assisting characters must also roll a Crafting skill check against the same DC. Based on the results of the assistants' rolls, the primary crafter's skill check is modified as follows:
+- If any assisting Character critically failed, the level of success of the primary skill check is reduced by one level.
+- If no assisting Characters critically failed and at least one Character critically succeeded, the level of success of the primary skill check is increased by one level.
+# Sequential Crafting
+If a Character wishes to craft several items back-to-back, they may pay up front the cost needed to craft those items and add together the number of days needed to craft those items. This total sum of days may then be reduced as specified above in the Speeding Up Crafting section.
+# Crafting Feats
+If you have the [Magical Crafting](https://2e.aonprd.com/Feats.aspx?ID=812) Feat, you are considered as having the [Alchemical Crafting](https://2e.aonprd.com/Feats.aspx?ID=752) and [Snare Crafting](https://2e.aonprd.com/Feats.aspx?ID=843) Feats for the purposes of crafting alchemical items and snares, though you do not gain any other benefits associated with those feats.
