@@ -1,0 +1,1 @@
+- Defeated by [[./Rose Guard|Rose Guard]] 500 years ago
