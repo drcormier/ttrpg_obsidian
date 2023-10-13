@@ -1,0 +1,4 @@
+- Where the campaign began
+- [[./Fuq|Fuq]], [[./Celestia|Celestia]], and [[./Gren|Gren]] met here in prison
+- Met [[./Jilesh|Jilesh]] in a cave
+	- Gave us a mission
