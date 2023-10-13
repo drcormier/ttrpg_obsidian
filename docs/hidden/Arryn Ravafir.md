@@ -1,0 +1,5 @@
+- Wild Magic Sorcerer
+- Friendly rivalry with [[./Kuramira|Kuramira]]
+	- Always places second to [[./Kuramira|Kuramira]]
+ - Hates [[./Vulas Kelzumin|Vulas Kelzumin]] with a passion
+ - Survived the Feywild due to always "partnering" with [[./Kuramira|Kuramira]]
