@@ -2,7 +2,7 @@
 tags:
   - notes
   - dungeons-and-dragons
-  - wednesday
+  - tuesday
 ---
 
 # Notes For <% tp.date.now("dddd, YYYY-MM-DD") %>
@@ -15,15 +15,14 @@ tags:
 	tR += "Session began at " + tp.date.now("HH:mm:ss")
 %>
 ## Current Characters
-[[./Greyan|Greyan]]
-[[./Leviticus|Leviticus]]
-[[./Othello|Othello]]
-[[./Velphi|Velphi]]
-[[./Vera|Vera]]
+[[./Agath|Agath]]
+[[./Cade|Cade]]
+[[./Ko|Ko]]
+[[./Liera|Liera]]
+[[./Lucio|Lucio]]
+[[./Wuender|Wuender]]
 ## Recurring Notes
-### Spell Scrolls
-![[./Spell Scrolls|Spell Scrolls]]
-[[./Velphi's Personality|Velphi's Personality]]
+![[./Recurring Notes|../Templates/Recurring Notes]]
 ## Notes
 <% tp.file.cursor() %>
 ## Navigation
