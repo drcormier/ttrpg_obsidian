@@ -1,0 +1,6 @@
+- Order of the Amazon Warehouse Paladin
+- "Lawful Stupid"
+	- Thinks [[./Kuramira|Kuramira]] is too light on crime and morality
+	- Loves capitalism
+- One day older than [[./Arryn Ravafir|Arryn Ravafir]], never lets her live it down
+- Survived the Feywild due to sheer luck
