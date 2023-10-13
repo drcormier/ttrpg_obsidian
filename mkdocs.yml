@@ -1,6 +1,6 @@
 site_name: ttrpg_obsidian # Change this to your site name
 site_description: TTRPG notes using Obsidian
-site_url: https://github_drcormier.github.io/ttrpg_obsidian # Change this to your site URL
+site_url: https://drcormier.github.io/ttrpg_obsidian # Change this to your site URL
 
 theme:
     name: 'material'
