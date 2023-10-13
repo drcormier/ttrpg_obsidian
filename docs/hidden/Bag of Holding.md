@@ -1,0 +1,9 @@
+- Mind Flayer Dungeon
+	- 2 Spell Books in Elven
+	- 5 Intact Books in Elven
+	- Enchanted Golden Pendant
+	- Metal Sceptre
+		- Poor imitation of Fey deity
+	- Elven picture book
+	- Shackles with runes
+	- Chainmail with ivory color
