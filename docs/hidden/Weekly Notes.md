@@ -2,7 +2,7 @@
 tags:
   - notes
   - dungeons-and-dragons
-  - saturday
+  - wednesday
 ---
 
 # Notes For <% tp.date.now("dddd, YYYY-MM-DD") %>
@@ -15,22 +15,15 @@ tags:
 	tR += "Session began at " + tp.date.now("HH:mm:ss")
 %>
 ## Current Characters
-[[./Alyxia|Alyxia]]
-[[./Blackavar|Blackavar]]
-[[./Felix|Felix]]
-[[./Sokar|Sokar]]
+[[./Greyan|Greyan]]
+[[./Leviticus|Leviticus]]
+[[./Othello|Othello]]
+[[./Velphi|Velphi]]
+[[./Vera|Vera]]
 ## Recurring Notes
->[!TIP] USE FAVORED BY THE GODS
-
->[!TIP] USE PROTECTION FROM EVIL AND GOOD AGAINST FIENDS AND TWIN SPELL IT
-
-### Ring of Spell Storing
-![[./Ring of Spell Storing|Ring of Spell Storing]]
-### Teleporter Levels
-![[./Teleporter|Teleporter]]
-### Tiles
-![[./Tiles|Tiles]]
-
+### Spell Scrolls
+![[./Spell Scrolls|Spell Scrolls]]
+[[./Velphi's Personality|Velphi's Personality]]
 ## Notes
 <% tp.file.cursor() %>
 ## Navigation
