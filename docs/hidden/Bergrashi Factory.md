@@ -1,0 +1,6 @@
+- Place the exchange is taking place in
+- Second level of [[./Glaverus|Glaverus]]
+- Exchange taking place at night
+	- Witness exchange
+	- Steal product
+	- Grab [[./Mysterious Wizard|Mysterious Wizard]]
