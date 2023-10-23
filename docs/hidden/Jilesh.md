@@ -1,0 +1,3 @@
+- Met early in the game in a cave near [[./Aret|Aret]]
+- Strong wizard
+- Asked us to meet [[./Mysterious Wizard|Mysterious Wizard]] in [[./Glaverus|Glaverus]]
