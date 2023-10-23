@@ -1,0 +1,2 @@
+- Nomadic town
+- [[./Fuq|Fuq]] and [[./Celestia|Celestia]] met [[./Alvaungh|Alvaungh]] here
