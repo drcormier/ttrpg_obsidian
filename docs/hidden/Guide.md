@@ -1,9 +1,18 @@
-Complexity:
-Location:
-Date:
-Contact:
+Complexity: 2
+Location: DIVISION BASE 0001 in (REDACTED)
+Date: September, Equinox
+Contact: Angel Gorimel (they/them)
 ### Hook
-
+OMEN-CLASS MONSTERS, monstrous agent trainer VEX and new recruit MR. KNOCK have both gone missing. Our psychics have deciphered a distress signal from decommissioned DIVISION BASE 0001, where the First Door is secured under maximum security protocols. These security measures have been compromised, and are now ineffective against HARBINGER-CLASS monsters. Find VEX and MR. KNOCK. If either, or both, have succumbed to the Harbinger within them, you have direct orders to eliminate them. Find the DOOR OF POWER and contain it before the Harbinger claims ASCENSION.
 #### Content Warning
-
+*Body horror, cruel experimentation, cult behavior, evidence of mental illness from trauma.*
 ## Description
+**DIVISION has existed, in one form or another, for hundreds of years.** The world has always existed on the very edge of apocalypse, the smallest light in an endless dark. For as long as there have been monsters, humanity has leashed them to secrecy and service, to hold back the Harbingers and their dreams of destruction.
+**DIVISION has had many names, faces, and countless incarnations.** DIVISION has been destroyed and reborn across sacred rituals, secret societies, and top secret government agencies. Even when this incarnation of DIVISION ceases to exist, it will resurface in another place and time. As long as there is a world to protect and an apocalypse to hold back.
+**Vex is an Omen that has served DIVISION for a long time.** Vex is the child of the kraken, and has led other Omens in unlocking and containing several ancient Doors of Power. After losing dozens of recruits to the Harbingers, Vex retired from active field duty and became a trainer. For decades, Vex worked with recruits to give them every possible edge, every hope for survival. The hunger of the apocalypse is endless, and the Harbingers are relentless. DIVISION continues to lose monstrous agents—many of them becoming Harbingers in the process—but Vex is determined to make each loss mean something. Anything.
+**A few weeks ago, DIVISION began the Ascension Project.** A highly experimental process meant to strengthen Omen recruits to levels never before recorded. Rumors persist that DIVISION is extracting power from ancient Doors that remain in the organization’s possession, and grafting the unstable and highly volatile power to the new recruits. There has been no proof that DIVISION is making use of such dangerous methods, but they have a reputation for pushing boundaries.
+**Bella is the star recruit of the program, undeniable evidence that the Ascension Project is viable.** Before recruitment, Bella’s power levels were measured to be 3000% lower than the minimum to be classified as an Omen. Bella was haunted by a monster under the bed as a child, the supernatural entity only known as Michael. Bella and Michael formed a strange and symbiotic relationship, and both volunteered to take part in the Ascension Project. As a result of the program, both Bella and Michael infused into one being, their powers growing exponentially. Together, they outclass most active monstrous agents of DIVISION. Their combined being is now known as Mr. Knock.
+**Three days ago, an altercation between Vex and Mr. Knock occurred.** Several eyewitnesses and security footage show the two shouting at each other before the confrontation became physically violent. After tearing down several walls and destroying DIVISION property across five floors, Vex forcibly escorted Mr. Knock off the premises. When DIVISION personnel attempted to intervene, Vex used his full abilities as a kraken to escape. DIVISION was unable to reacquire the location of either Vex or Mr. Knock.
+**Today, a distress beacon was activated in DIVISION BASE 0001.** The base was once the central headquarters of DIVISION—decommissioned decades ago. The distress beacon’s psychic-monitors are outdated and barely functioning, but several of DIVISION’s psychics confirm the data. The security protocols have been compromised. Vex and Mr. Knock are both in DIVISION BASE 0001.
+**The only thing you know about DIVISION BASE 0001 is this: the First Door is locked away deep within the maze of its corridors and failed experiments.** Moving the ancient Door of Power was deemed far too dangerous, and instead maximum security lockdowns were enacted. With this breach in security, there is nothing left to hold back a Harbinger.
+**There are no records of what the First Door actually is.** All digital information has been deleted, and no physical records remain. Any information about the First Door has been scrubbed from DIVISION’s records.
