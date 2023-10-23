@@ -1,0 +1,3 @@
+- 22 year old human man fair skin curly hair
+- well trained in stealth and thievery
+- platinum ring with family signet
