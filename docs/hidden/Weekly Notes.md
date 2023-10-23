@@ -1,27 +1,29 @@
 ---
 tags:
   - notes
-  - pathfinder
-  - sunday
+  - dungeons-and-dragons
+  - wednesday
 ---
 
 # Notes For <% tp.date.now("dddd, YYYY-MM-DD") %>
 <%*
 	let title = tp.file.title
 	if (title.startsWith("Untitled")) {
-		title = `${tp.date.now("YYYY-MM-DD")} (${tp.date.now("dddd")}) (AV)`;
+		title = `${tp.date.now("YYYY-MM-DD")} (${tp.date.now("dddd")})`;
 	    await tp.file.rename(`${title}`);
-	} 
+	}
 	tR += "Session began at " + tp.date.now("HH:mm:ss")
 %>
 ## Current Characters
-[[./Dredd|Dredd]]
-[[./Hannya|Hannya]]
-[[./Lyra|Lyra]]
-[[./Swan|Swan]]
-[[./Warden|Warden]]
+[[./Greyan|Greyan]]
+[[./Leviticus|Leviticus]]
+[[./Othello|Othello]]
+[[./Velphi|Velphi]]
+[[./Vera|Vera]]
 ## Recurring Notes
-![[./Lyra Items|Lyra Items]]
+### Spell Scrolls
+![[./Spell Scrolls|Spell Scrolls]]
+[[./Velphi's Personality|Velphi's Personality]]
 ## Notes
 <% tp.file.cursor() %>
 ## Navigation
