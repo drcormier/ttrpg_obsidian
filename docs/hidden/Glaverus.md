@@ -1,0 +1,3 @@
+- Industrial town on side of mountain
+- [[./Fuq|Fuq]] and [[./Alvaungh|Alvaungh]] arrested for attacking city hall, [[./Celestia|Celestia]] ran away
+- [[./Fuq|Fuq]] and [[./Alvaungh|Alvaungh]] met [[./Kuramira|Kuramira]] here in prison
