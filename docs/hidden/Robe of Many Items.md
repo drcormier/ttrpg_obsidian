@@ -1,0 +1,20 @@
+- 2x Dagger
+- 2x Bullseye lantern (filled and lit)
+- 2x Steel mirror
+- 2x 10-foot pole
+- 2x Hempen rope (50 feet, coiled)
+- 2x Sack (edited)
+- 72 Patches with mug and ale
+- Silver Coffer
+- Window
+- ~~4 Potions of Healing~~
+- 2 Mastiffs
+- Riding Horse with saddle bags
+- Rowboat
+- ~~Bag of 100gp~~
+- Scroll of Barkskin
+- ~~4 Potions of Healing~~
+- Rowboat
+- ~~Portable ram~~
+- Iron Door
+- Scroll of Haste
