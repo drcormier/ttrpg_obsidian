@@ -1,0 +1,4 @@
+- Wood of the Sharpteeth
+- Taken over by ghouls
+	- Led to demise of Which Way
+- 3 days travel
