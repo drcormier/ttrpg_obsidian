@@ -18,7 +18,7 @@ Session began at 19:43:41
 [[../../Vera|Vera]]
 ## Recurring Notes
 ### Spell Scrolls
-![[../../Spell Scrolls|Spell Scrolls]]
+![[./Spell Scrolls|Spell Scrolls]]
 [[../../Velphi's Personality|Velphi's Personality]]
 ## Notes
 - [[./Askadel|Askadel]] the Solar
