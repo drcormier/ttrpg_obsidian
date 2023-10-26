@@ -18,7 +18,7 @@ Session began at 20:08:01
 [[../../Vera|Vera]]
 ## Recurring Notes
 ### Spell Scrolls
-![[../../Spell Scrolls|Spell Scrolls]]
+![[./Spell Scrolls|Spell Scrolls]]
 [[../../Velphi's Personality|Velphi's Personality]]
 ## Notes
 - [[../../Karmus|Karmus]]
