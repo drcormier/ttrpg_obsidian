@@ -1,8 +1,10 @@
 ---
 tags:
   - notes
-  - dungeons-and-dragons
   - friday
+  - pathfinder
+date created: Thursday, September 28th 2023, 5:30:32 pm
+date modified: Friday, October 27th 2023, 9:39:26 am
 share: "true"
 ---
 
@@ -20,12 +22,11 @@ share: "true"
 [[./Fentress Seraphina|Fen]]
 [[./Grent|Grent]]
 [[./Lysswyn|Lysswyn]]
-[[./Vathal Moonseeker|Val]]
+[[./Vathal Moonseeker|Vathal]]
 ## Recurring Notes
-[Calendar](https://app.fantasy-calendar.com/calendars/6f02c48e5c62fc52dd885ff64676e197)
 [LegendKeeper Wiki](https://app.legendkeeper.com/a/worlds/cl9i3wvwfuxpk0990vdj471tg/cl9i3xygz000d0288hoamypix)
 [[./Lysswyn's Personality|Lysswyn's Personality]]
 ## Notes
 <% tp.file.cursor() %>
 ## Navigation
-[[<% tp.date.now("YYYY-MM-DD (dddd)", -7) %>|←]] | [[<% tp.date.now("YYYY-MM-DD (dddd)", +7) %>|→]] 
+[[<% tp.date.now("YYYY-MM-DD (dddd)", -7) %>|←]] | [[<% tp.date.now("YYYY-MM-DD (dddd)", +7) %>|→]]
