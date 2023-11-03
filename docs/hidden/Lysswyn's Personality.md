@@ -8,7 +8,7 @@ date modified: Thursday, October 26th 2023, 10:32:24 am
 share: "true"
 ---
 
-# 
+# Lysswyn's Personality
 [[./Lysswyn|Lysswyn]]
 [D&DBeyond Page](https://www.dndbeyond.com/characters/108618434)
 ## High Level Info
